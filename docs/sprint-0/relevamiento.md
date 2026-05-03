@@ -22,19 +22,17 @@ El público objetivo está compuesto por personas que participan en actividades 
 - Atención presencial, sin sistema digital de ventas
 - Posibilidad de expansión a ventas online
 
-## 📸 Fotos del negocio
+## Fotos del comercio
 
-Las imágenes se encuentran en la carpeta `fotos/` y representan:
+- *entrada.jpg*: muestra el acceso principal al local y su visibilidad desde el exterior, permitiendo identificar cómo llega el cliente al negocio.
 
-| Archivo | Descripción |
-|---|---|
-| `catalogoParte1.jpg` | Primera parte del catálogo de productos disponibles |
-| `catalogoParte2.jpg` | Segunda parte del catálogo de productos disponibles |
-| `catalogoParte3.jpg` | Tercera parte del catálogo de productos disponibles |
-| `entrada.jpg` | Entrada principal del local comercial |
-| `interiorComercio.jpg` | Vista general del interior del comercio |
-| `sectorPonchos-bombachaGa.jpg` | Sector de ponchos y bombachas de gaucho |
-| `zonaDeAtencion.jpg` | Zona de atención al cliente |
+- *interiorComercio.jpg*: permite observar la distribución interna del espacio, la organización del local y cómo se exhiben los productos.
+
+- *zonaDeAtencion.jpg*: refleja el área donde se realiza la interacción con el cliente, importante para entender el proceso de compra y atención.
+
+- *catalogoParte1.jpg, catalogoParte2.jpg, catalogoParte3.jpg*: evidencian la variedad de productos disponibles, lo que permite identificar categorías y tipos de artículos para el futuro catálogo digital.
+
+- *sectorPonchos-bombachaGauchas.jpg*: muestra un sector específico del negocio, destacando una categoría particular de productos, lo que ayuda a definir cómo se organizarán los productos en la aplicación (por categorías).
 
 ## 🎨 Logo
 
