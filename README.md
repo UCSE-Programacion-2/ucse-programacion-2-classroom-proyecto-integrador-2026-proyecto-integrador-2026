@@ -11,9 +11,7 @@ Tablero de GitHub Projects: [Ping - Proyecto Integrador](https://github.com/orgs
 * **Nombre:** TECNO X
 * **Rubro:** TECNOLOGÍA
 * **Redes sociales:** [Instagram](https://www.instagram.com/tecno_x?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) [Facebook](https://www.facebook.com/share/1AwqrLMqFf/)
-* **Justificación:** [Elegimos *Tecno X* porque es un comercio real de Jujuy, con local físico y actividad en redes sociales. Vende productos tecnológicos variados como celulares, parlantes, auriculares, fundas, accesorios, etc.
-
-El catálogo es apto para un CRUD porque cada producto puede cargarse con nombre, categoría, marca, precio, stock, descripción e imagen. Además, se pueden administrar altas, consultas, modificaciones y bajas de productos.]
+* **Justificación:** Elegimos *Tecno X* porque es un comercio real de Jujuy, con local físico y actividad en redes sociales. Vende productos tecnológicos variados como celulares, parlantes, auriculares, fundas, accesorios, etc. El catálogo es apto para un CRUD porque cada producto puede cargarse con nombre, categoría, marca, precio, stock, descripción e imagen. Además, se pueden administrar altas, consultas, modificaciones y bajas de productos.
 
 ## 📝 Reglas de Contribución
 * Uso de Git Flow.
