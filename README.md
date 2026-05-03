@@ -1,16 +1,19 @@
 Tablero de GitHub Projects: [Link a tu tablero]
 
-# [Nombre del Proyecto / Equipo] - Programación II 2026
+# INCLUSIÓN FORZADA - Programación II 2026
 
 ## 👥 Integrantes
-* **Apellido, Nombre** - [GitHub Profile](link)
-* **Apellido, Nombre** - [GitHub Profile](link)
-* **Apellido, Nombre** - [GitHub Profile](link)
+* **Montoya Cruz, Maité Agustina** - [GitHub Profile](link)
+* **Toscano, Juan Martin** - [GitHub Profile](link)
+* **Vilca, Jorge Natanael** - [GitHub Profile](link)
 
 ## 🏢 Cliente Real Elegido
-* **Nombre:** [Nombre del Comercio en Jujuy]
-* **Rubro:** [Ej: Indumentaria Deportiva]
-* **Justificación:** [Explicar brevemente por qué el catálogo es apto para un CRUD]
+* **Nombre:** La Vie En Rose Jujuy
+* **Rubro:** Cafetería
+* **Red social: [Instagram - La Vie Rose](https://www.instagram.com/lavieenrosejujuy/)
+* **Justificación:** Se eligió la cafetería "La Vie Rose" porque es un negocio real de Jujuy que ofrece desayunos, almuerzos y meriendas.
+
+Esto permite trabajar con distintas categorías de productos y con información como precios, descripciones e imágenes, cumpliendo con los requisitos del proyecto.
 
 ## 📝 Reglas de Contribución
 * Uso de Git Flow.
