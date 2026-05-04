@@ -1,19 +1,19 @@
-Tablero de GitHub Projects: [Link a tu tablero]
+Tablero de GitHub Projects: https://github.com/orgs/UCSE-Programacion-2/projects/37
 
 # INCLUSIÓN FORZADA - Programación II 2026
 
 ## 👥 Integrantes
-* **Montoya Cruz, Maité Agustina** - [GitHub Profile](link)
-* **Toscano, Juan Martin** - [GitHub Profile](link)
-* **Vilca, Jorge Natanael** - [GitHub Profile](link)
+* **Montoya Cruz, Maité Agustina** - https://github.com/maitemontoya
+* **Toscano, Juan Martin** - https://github.com/martin-rin
+* **Vilca, Jorge Natanael** - https://github.com/Najovi
 
 ## 🏢 Cliente Real Elegido
 * **Nombre:** La Vie En Rose Jujuy
 * **Rubro:** Cafetería
 * **Red social: [Instagram - La Vie Rose](https://www.instagram.com/lavieenrosejujuy/)
-* **Justificación:** Se eligió la cafetería "La Vie Rose" porque es un negocio real de Jujuy que ofrece desayunos, almuerzos y meriendas.
+* **Justificación:** Se eligió "La Vie en Rose" porque no cuenta con un sistema digital propio, lo que permite desarrollar una solución que mejore el acceso a su catálogo y la experiencia del cliente.
 
-Esto permite trabajar con distintas categorías de productos y con información como precios, descripciones e imágenes, cumpliendo con los requisitos del proyecto.
+Además, su variedad de productos permite aplicar conceptos clave de un e-commerce como categorías y visualización de productos.
 
 ## 📝 Reglas de Contribución
 * Uso de Git Flow.
