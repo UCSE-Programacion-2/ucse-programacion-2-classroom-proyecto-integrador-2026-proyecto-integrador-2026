@@ -1,5 +1,7 @@
 # Los pibes - Programación II 2026
 
+## 📋 Tablero Sprint 1](https://github.com/orgs/UCSE-Programacion-2/projects/46/views/1)
+
 ## 👥 Integrantes
 * **Matos, Francisco** - [GitHub](https://github.com/MacetaXL)
 * **Vilca, Lucas** - [GitHub](https://github.com/AlvaroLucas778)
@@ -22,7 +24,7 @@
 * Guía para alumnos (commits y protecciones de PR): `docs/como-ejecutar.md` (sección "Guía para alumnos: commits y PRs").
 
 ## 🔗 Acceso a Herramientas
-* **Tablero:** [Ver GitHub Project](https://github.com/orgs/UCSE-Programacion-2/projects/39)
+* **Tablero:** [Ver GitHub Project]([https://github.com/orgs/UCSE-Programacion-2/projects/39](https://github.com/orgs/UCSE-Programacion-2/projects/46/views/1))
 
 ## 📹 Sprint Review (todos los sprints)
 * Guía unificada: `docs/sprint-review/README.md`
