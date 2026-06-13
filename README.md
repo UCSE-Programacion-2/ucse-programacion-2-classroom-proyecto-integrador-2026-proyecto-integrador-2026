@@ -1,16 +1,19 @@
-Tablero de GitHub Projects: [Link a tu tablero]
+Tablero de GitHub Projects: https://github.com/orgs/UCSE-Programacion-2/projects/37
 
-# [Nombre del Proyecto / Equipo] - Programación II 2026
+# INCLUSIÓN FORZADA - Programación II 2026
 
 ## 👥 Integrantes
-* **Apellido, Nombre** - [GitHub Profile](link)
-* **Apellido, Nombre** - [GitHub Profile](link)
-* **Apellido, Nombre** - [GitHub Profile](link)
+* **Montoya Cruz, Maité Agustina** - https://github.com/maitemontoya
+* **Toscano, Juan Martin** - https://github.com/martin-rin
+* **Vilca, Jorge Natanael** - https://github.com/Najovi
 
 ## 🏢 Cliente Real Elegido
-* **Nombre:** [Nombre del Comercio en Jujuy]
-* **Rubro:** [Ej: Indumentaria Deportiva]
-* **Justificación:** [Explicar brevemente por qué el catálogo es apto para un CRUD]
+* **Nombre:** La Vie En Rose Jujuy
+* **Rubro:** Cafetería
+* **Red social: [Instagram - La Vie Rose](https://www.instagram.com/lavieenrosejujuy/)
+* **Justificación:** Se eligió "La Vie en Rose" porque no cuenta con un sistema digital propio, lo que permite desarrollar una solución que mejore el acceso a su catálogo y la experiencia del cliente.
+
+Además, su variedad de productos permite aplicar conceptos clave de un e-commerce como categorías y visualización de productos.
 
 ## 📝 Reglas de Contribución
 * Uso de Git Flow.
