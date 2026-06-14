@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
+header,
+footer {
+  padding: 1rem;
+  background-color: var(--color-primary);
+  color: var(--color-cream);
+}
+nav ul {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+}
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+main {
+  padding: 2rem;
+}
+section {
+  background-color: var(--color-surface);
+  padding: 2rem;
+  border-radius: 12px;
+}
