@@ -1,6 +1,7 @@
-Tablero de GitHub Projects: [Ping - Proyecto Integrador](https://github.com/orgs/UCSE-Programacion-2/projects/30)
+# TECNO X - Programación II 2026
 
-# [Nombre del Proyecto / Equipo] - Programación II 2026
+## 📋 Tablero Sprint 1
+* Tablero de GitHub Projects: [Ping - Proyecto Integrador](https://github.com/orgs/UCSE-Programacion-2/projects/30)
 
 ## 👥 Integrantes
 * **Sadir, Martín** - [GitHub Profile](https://github.com/martinSadir21)
@@ -16,7 +17,7 @@ Tablero de GitHub Projects: [Ping - Proyecto Integrador](https://github.com/orgs
 ## 📝 Reglas de Contribución
 * Uso de Git Flow.
 * PRs requieren 2 aprobaciones.
-* No se acepta código sin Issue asociada.
+* No se acepta código sin Issue asociada[cite: 1].
 * Guía para alumnos (commits y protecciones de PR): [docs/como-ejecutar.md](docs/como-ejecutar.md) (sección "Guía para alumnos: commits y PRs").
 
 ## 📹 Sprint Review (todos los sprints)
